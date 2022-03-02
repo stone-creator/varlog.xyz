@@ -1,2 +1,2 @@
-# www.varlog.xyz
-www.varlog.xyz
+# varlog.xyz
+varlog.xyz
