@@ -1,2 +1,2 @@
 # varlog.xyz
-varlog.xyz
+https://zepeto.varlog.xyz
