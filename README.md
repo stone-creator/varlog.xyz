@@ -1,2 +1,3 @@
-# varlog.xyz
-[zepeto.varlog.xyz](https://zepeto.varlog.xyz)
+## varlog.xyz
+
+[Memo](https://varlog.xyz/memo)
