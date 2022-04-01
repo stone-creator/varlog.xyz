@@ -1,3 +1,3 @@
-## varlog.xyz
+## Links
 
 [Memo](https://varlog.xyz/memo)
